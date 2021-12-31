@@ -90,6 +90,32 @@ a:hover {
   right: 0;
 }
 
+/* Add CSS for bloc services */
+
+.bloc-title {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.citation {
+  max-width: 550px;
+  margin: 0 auto;
+  font-size: 1.5em;
+  font-weight: 100;
+}
+
+.citation-author {
+  display: block;
+  font-size: 0.7em;
+  font-weight: 100;
+}
+
+.bloc-title.portfolio {
+  max-width: 450px;
+}
+
+/* End CSS bloc services */
+
 .texture-paper::before {
   background: url("img/texture-paper.webp");
   background-size: 280px 280px;
@@ -679,7 +705,8 @@ a {
 }
 
 p {
-  font-size: 11px;
+  /* upgrade font-size */
+  font-size: 14px;
 }
 
 .tight-width-whitespace {
