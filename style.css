@@ -90,6 +90,20 @@ a:hover {
   right: 0;
 }
 
+/* Add width/height img */
+
+.navbar-brand img {
+  width: 200px;
+  height: 40px;
+}
+
+.banner-logo {
+  width: 100px;
+  height: 100px;
+}
+
+/* End width / height img */
+
 /* Add CSS for bloc services */
 
 .bloc-title {
@@ -770,6 +784,8 @@ h4 {
 
 .portfolio-thumb {
   margin-bottom: 24px;
+  width: 270px;
+  height: 270px;
 }
 
 .portfolio-row {
@@ -1068,4 +1084,10 @@ h4 {
   .bloc-mob-center-text {
     text-align: center;
   }
+  /* Add width/height size */
+  .portfolio-thumb {
+    width: 100%;
+    height: 100%;
+  }
+  /* End width/height size */
 }
