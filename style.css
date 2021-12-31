@@ -101,13 +101,13 @@ a:hover {
   max-width: 550px;
   margin: 0 auto;
   font-size: 1.5em;
-  font-weight: 100;
+  font-weight: 500;
 }
 
 .citation-author {
   display: block;
   font-size: 0.7em;
-  font-weight: 100;
+  font-weight: 300;
 }
 
 .bloc-title.portfolio {
