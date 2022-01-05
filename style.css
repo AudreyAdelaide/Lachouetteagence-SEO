@@ -811,12 +811,14 @@ h4 {
 }
 
 .tc-white {
-  color: #f3976c !important;
+  /* color: #f3976c !important; */
+  color: #fff !important;
   /* color: rgb(0, 0, 0) !important; */
 }
 
 .btn-atomic-tangerine {
-  background: #f3976c;
+  /* background: #f3976c; */
+  background: #95390e;
   color: #ffffff !important;
 }
 
