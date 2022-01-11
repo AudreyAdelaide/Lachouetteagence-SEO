@@ -90,10 +90,6 @@ a:hover {
   right: 0;
 }
 
-/* Add width/height img */
-
-/* End width / height img */
-
 /* Add CSS for bloc services */
 
 .bloc-title {
@@ -710,8 +706,7 @@ a {
 }
 
 p {
-  /* upgrade font-size */
-  font-size: 14px;
+  font-size: 11px;
 }
 
 .tight-width-whitespace {
