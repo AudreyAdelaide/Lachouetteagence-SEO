@@ -852,12 +852,12 @@ h4 {
 }
 
 .bg-banniere {
-  background-image: url("img/la-chouette-agence-banniere.webp");
+  background-image: url("img/la-chouette-agence-banniere.jpg");
   background-size: cover;
 }
 
 .bg-presentation {
-  background-image: url("img/image-de-presentation.webp");
+  background-image: url("img/image-de-presentation.jpg");
   background-size: cover;
 }
 
