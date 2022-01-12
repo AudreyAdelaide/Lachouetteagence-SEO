@@ -783,7 +783,6 @@ h4 {
 
 .black-background {
   background-color: rgba(165, 147, 99, 0.7);
-  /* background: #f3976d; */
   padding: 40px 40px 40px 40px;
 }
 
@@ -801,18 +800,14 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-  /* background-color: #f3976c; */
   background-color: #722F04;
 }
 
 .tc-white {
-  /* color: #f3976c !important; */
   color: #fff !important;
-  /* color: rgb(0, 0, 0) !important; */
 }
 
 .btn-atomic-tangerine {
-  /* background: #f3976c; */
   background: #95390e;
   color: #ffffff !important;
 }
@@ -908,10 +903,7 @@ h4 {
     overflow-x: hidden;
     position: relative;
   }
-  /* .bloc {
-    padding-left: constant(safe-area-inset-left);
-    padding-right: constant(safe-area-inset-right);
-  } */
+
   .bloc-group,
   .bloc-group .bloc {
     display: block;
@@ -920,8 +912,6 @@ h4 {
   .bloc-fill-screen .fill-bloc-top-edge,
   .bloc-fill-screen .fill-bloc-bottom-edge {
     padding: 0 20px;
-    /* padding-left: constant(safe-area-inset-left);
-    padding-right: constant(safe-area-inset-right); */
   }
 }
 
@@ -1069,22 +1059,14 @@ h4 {
     padding-left: 0;
     padding-right: 0;
   }
-  /* .bg-banniere {
-    height: 320px;
-  }
-  .bg-presentation {
-    height: 780px;
-  } */
 }
 
 @media (max-width: 767px) {
   .bloc-mob-center-text {
     text-align: center;
   }
-  /* Add width/height size */
   .portfolio-thumb {
     width: 100%;
     height: auto;
   }
-  /* End width/height size */
 }
